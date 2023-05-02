@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T15:35:33 IST" name="Default suite" finished-at="2023-04-28T15:36:33 IST" duration-ms="59432">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T15:35:33 IST" name="Default test" finished-at="2023-04-28T15:36:33 IST" duration-ms="59432">
+      <class name="FetchAllMobileNameAndPriceInFlipkart">
+        <test-method signature="fetchmobilename()[pri:0, instance:FetchAllMobileNameAndPriceInFlipkart@76c3e77a]" started-at="2023-04-28T15:35:33 IST" name="fetchmobilename" finished-at="2023-04-28T15:36:33 IST" duration-ms="59394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchmobilename -->
+      </class> <!-- FetchAllMobileNameAndPriceInFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
